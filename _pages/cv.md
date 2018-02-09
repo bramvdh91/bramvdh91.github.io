@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,49 +11,55 @@ redirect_from:
 
 Education
 ======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
+* BSc in Engineering Science, major Mechanical and minor Electrical Engineering, KU Leuven, 2012, Magna cum laude.
+* MSc in Engineering Science, Energy for Smart Cities, KU Leuven & Royal Institute of Technology (KTH), Stockholm, Cum laude.
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2014-2015: Research Associate, KU Leuven
+  * Project Expert-Devs
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+* 2015-Present: PhD Candidate, EnergyVille - KU Leuven - VITO
+  * Project EFRO-SALK GeoWatt 'Towards a Sustainable Energy Supply in Cities'
+  * VITO PhD Scholarship
+  * EIT InnoEnergy PhD School
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+
+* Languages:
+  * English, Dutch: Native/full professional
+  * German, French: Medium conversational, good understanding proficiency
+  * Swedish: Elementary proficiency
+* Thermal Energy Modelling
+* Optimization
+* Modelica/Dymola - R - Python
+* LaTeX - Vector illustration - Poster design
+
+
+Extra Courses
+======
+
+* Academic Innovator Law & IP Strategy - Uppsala University
+* Managing Innovation & Entrepreneurship - ESADE
+* Maps and the Geospatial Revolution - Coursera
+* Dynamic Calculation Methods for Building Energy Assessment - DTU
+* Convex Optimization - KU Leuven
+
+Teaching
+======
+  <ul>{% for post in site.teaching %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
