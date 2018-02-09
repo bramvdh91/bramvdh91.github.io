@@ -36,6 +36,13 @@ Skills
 * Modelica/Dymola - R - Python
 * LaTeX - Vector illustration - Poster design
 
+Activities
+======
+
+* 2010-Present: Active member of University Symphony Orchestra of KU Leuven
+  * 2011-2013: Board member, PR
+* 2015-Present: Volunteer at Thermotechnical Institute at KU Leuven
+* 2017-Present: VITO PhD Committee member
 
 Extra Courses
 ======
