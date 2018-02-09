@@ -55,7 +55,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter bvdh91
+  username               : &twitter
 facebook:
   username               :
   app_id                 :
@@ -78,13 +78,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Bram van der Heijde"
   avatar           : "bram.jpg"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "PhD Student at EnergyVille. Studying thermal energy storage and thermal networks. I play the cello."
   location         : "Hasselt, Belgium"
-  employer         :
+  employer         : EnergyVille - KU Leuven - VITO
   googlescholar    : "https://scholar.google.be/citations?user=DoLXRvAAAAAJ&hl=nl"
-  email            :
+  email            : "bram.vanderheijde@energyville.be"
   uri              :
   bitbucket        :
   codepen          :
@@ -97,9 +97,10 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
-  orcid            : " https://orcid.org/0000-0002-1389-1362"
+  linkedin         : "https://www.linkedin.com/in/bram-van-der-heijde-b715b934/"
+  orcid            : "https://orcid.org/0000-0002-1389-1362"
   pinterest        :
+  researchgate     : "https://www.researchgate.net/profile/Bram_Van_Der_Heijde"
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
