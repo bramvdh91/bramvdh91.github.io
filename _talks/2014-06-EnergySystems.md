@@ -1,7 +1,7 @@
 ---
 title: "Big meter data analytics of city-wide building performance for climate action planning"
 collection: talks
-type: "Talk"
+type: "Conference presentation"
 permalink: /talks/2014-06-EnergySystems
 venue: "Energy Systems Conference"
 date: 2014-06-24

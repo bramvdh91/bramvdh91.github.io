@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-Please check [google scholar](https://scholar.google.be/citations?user=DoLXRvAAAAAJ&hl=nl)
+Please check __[Google Scholar](https://scholar.google.be/citations?user=DoLXRvAAAAAJ&hl=nl)__
 for a complete list of publications.
 
 {% include base_path %}
