@@ -1,12 +1,12 @@
 ---
-title: "Modelling steady-state thermal behaviour of double thermal network pipes"
+title: "Unlocking flexibility by exploiting the thermal capacity of concrete core activation"
 collection: publications
-permalink: /publication/2017-TheSci
-excerpt: 'About analytical expressions for steady state thermal losses from district heating pipes and the influence of mass flow rate.'
+permalink: /publication/2017-EnProc
+excerpt: 'Defining the potential for load shifting in a building with concrete core activation, using a model predictive control approach.'
 date: 2017-07-01
 venue: 'Energy Procedia'
 paperurl: 'http://linkinghub.elsevier.com/retrieve/pii/S1290072916317355'
-citation: '<b>B. van der Heijde</b>, A. Aertgeerts, and L. Helsen, “Modelling steady-state thermal behaviour of double thermal network pipes,” Int. J. Therm. Sci., vol. 117, pp. 316–327, Jul. 2017.'
+citation: '<b>B. van der Heijde</b>, M. Sourbron, F. J. Vega Arance, R. Salenbien, and L. Helsen, “Unlocking flexibility by exploiting the thermal capacity of concrete core activation,” Energy Procedia, vol. 135, pp. 92–104, Oct. 2017.'
 ---
 
 <script type="text/javascript" src="//d39af2mgp1pqhg.cloudfront.net/widget-popup.js"></script>
