@@ -12,3 +12,5 @@ citation: '<b>B. van der Heijde</b>, M. Fuchs, C. Ribas Tugores, G. Schweiger, K
 <script type="text/javascript" src="//d39af2mgp1pqhg.cloudfront.net/widget-popup.js"></script>
 
 <a href="https://plu.mx/plum/a/?doi=10.1016%2Fj.enconman.2017.08.072" data-popup="right" data-size="large" class="plumx-plum-print-popup plum-bigben-theme" data-site="plum" data-hide-when-empty="true">Dynamic equation-based thermo-hydraulic pipe model for district heating and cooling systems</a>
+
+About a dynamic thermo-hydraulic plug-flow model for the behaviour of district heating pipes. The model is validated experimentally.
