@@ -5,8 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-Please check __[Google Scholar](https://scholar.google.be/citations?user=DoLXRvAAAAAJ&hl=nl)__
-for a complete list of publications.
+This page only shows peer-reviewed articles published in international journals. Please check __[ResearchGate](https://www.researchgate.net/profile/Bram_Van_Der_Heijde)__ or __[Google Scholar](https://scholar.google.be/citations?user=DoLXRvAAAAAJ&hl=nl)__ for a complete list of publications, including contributions at conferences.
 
 {% include base_path %}
 
