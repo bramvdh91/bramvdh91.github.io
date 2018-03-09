@@ -14,6 +14,9 @@ Education
 ------
 * BSc in Engineering Science, major Mechanical and minor Electrical Engineering, KU Leuven, 2012, Magna cum laude.
 * MSc in Engineering Science, Energy for Smart Cities, KU Leuven & Royal Institute of Technology (KTH), Stockholm, Cum laude.
+  * Master thesis: _"Big data analytics towards a retrofitting plan for the city of Stockholm"_
+    * Vattenfall Energy Award: First prize
+    * EIT-KIC InnoEnergy Master in Energy for Smart Cities Thesis Award: Second prize
 
 Work experience
 ------
