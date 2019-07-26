@@ -1,7 +1,7 @@
 ---
 title: "Optimal Integration of Thermal Energy Storage and Conversion in Fourth Generation Thermal Networks"
 collection: publications
-permalink: /publication/2019-PhD
+permalink: /publication/PhD
 excerpt: 'PhD dissertation for the degree of Doctor of Engineering Science in Mechanical Engineering'
 date: 2019-07-04
 paperurl: 'https://lirias.kuleuven.be/handle/123456789/638748'
