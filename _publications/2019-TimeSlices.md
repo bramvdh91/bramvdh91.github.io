@@ -1,0 +1,12 @@
+---
+title: "Representative days selection for district energy system optimisation: a solar district heating system with seasonal storage"
+collection: publications
+permalink: /publication/2019-TimeSlices
+excerpt: 'Making an optimal selection of representative days for energy system optimisation including seasonal energy storage systems. Application of the method to a benchmark case to assess its performance compared to a full-scale optimisation.'
+date: 2019-08-15
+venue: 'Applied Energy'
+paperurl: 'http://doi.org/10.1016/j.apenergy.2019.04.030'
+citation: '<b>B. van der Heijde</b>, A. Vandermeulen, R. Salenbien and L. Helsen, "Representative days selection for district energy system optimisation: a solar district heating system with seasonal storage", Applied Energy, Volume 248, p. 79-94 2019'
+---
+
+The design and operational optimisation of fourth generation district heating networks is a crucial step towards highly renewable energy systems of the future. In order to optimise such complex systems, a toolbox modesto (multi-objective district energy systems toolbox for optimisation) is being developed. Seasonal thermal energy storage is an essential technology to allow larger shares of renewable energy sources, yet large computational power is required for its representation in full-year operational optimisations, as a step towards district energy system optimal design. To decrease computational complexity, a technique with representative days able to include seasonal thermal energy storage systems is developed and validated. This methodology combines different part-solutions from literature, but also adds a novel aspect to safeguard the chronology of the optimisation problem. To validate the approach, the design optimisation of a fictitious solar district heating system with seasonal thermal energy storage is compared to different representative day optimisations in two steps. The operational optimisation is a linear optimisation problem, implemented using modesto; the design optimisation is built as a genetic algorithm, optimising the size of the storage and solar systems in the network. The validation exercise is done for the operational and for the design optimisation separately. This comparative study shows that modelling with representative days adequately mimics the behaviour for the presented case. Furthermore, a solution speed-up in the order of 10–30 times is shown for the representative optimisations with respect to the full year optimisation, in line with the reduction of the number of variables.
