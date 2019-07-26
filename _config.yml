@@ -80,11 +80,11 @@ analytics:
 author:
   name             : "Bram van der Heijde"
   avatar           : "bram.jpg"
-  bio              : "PhD Student at EnergyVille. Studying thermal energy storage and thermal networks. I play the cello."
+  bio              : "dr. ir. Energy engineer. I play the cello."
   location         : #"Hasselt, Belgium"
-  employer         : "EnergyVille"
+  employer         : "VREG"
   googlescholar    : "https://scholar.google.be/citations?user=DoLXRvAAAAAJ&hl=nl"
-  email            : "bram.vanderheijde@energyville.be"
+  email            : "bram.vanderheijde@vreg.be"
   uri              :
   bitbucket        :
   codepen          :
