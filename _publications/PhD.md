@@ -4,6 +4,7 @@ collection: publications
 permalink: /publication/PhD
 excerpt: 'PhD dissertation for the degree of Doctor of Engineering Science in Mechanical Engineering'
 date: 2019-07-04
+venue: 'KU Leuven'
 paperurl: 'https://lirias.kuleuven.be/handle/123456789/638748'
 citation: '<b>B. van der Heijde</b>, "Optimal Integration of Thermal Energy Storage and Conversion in Fourth Generation Thermal Networks", PhD Thesis, KU Leuven, Belgium, 2019.'
 ---
