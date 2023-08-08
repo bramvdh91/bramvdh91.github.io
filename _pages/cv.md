@@ -10,22 +10,13 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-------
-* PhD in Engineering Science, Mechanical Engineering, 2019. Supervisor: Prof. dr. ir. Lieve Helsen
-  * Dissertation: _"Optimal integration of thermal energy storage and conversion in fourth generation thermal networks"_  - ___[[Download](https://lirias.kuleuven.be/handle/123456789/638748)]___
-  * Supported by a VITO PhD Fellowship, ERDF, Flanders Innovation & Entrepreneurship and the Province of Limburg
-* MSc in Engineering Science, Energy for Smart Cities, KU Leuven & Royal Institute of Technology (KTH), Stockholm, Cum laude.
-  * Master thesis: _"Big data analytics towards a retrofitting plan for the city of Stockholm"_
-    * Vattenfall Energy Award: First prize
-    * EIT-KIC InnoEnergy Master in Energy for Smart Cities Thesis Award: Second prize
-* BSc in Engineering Science, major Mechanical and minor Electrical Engineering, KU Leuven, 2012, Magna cum laude.
-
-
-
 Work experience
 ------
-* 2019-present: Thermal networks supervisor, VREG (Flemish Energy Regulator)
+* 2023 - present: Assistant Professor, Delft University of Technology (TU Delft)
+  * Research regarding sustainable heat grids
+  * Developing education on heating and cooling networks
+
+* 2019-2023: Thermal networks supervisor, VREG (Flemish Energy Regulator)
   * Technical supervision of district heating and cooling networks
   * Production coordinations of guarantees of origin
 
@@ -37,7 +28,16 @@ Work experience
 * 2014-2015: Research Associate, KU Leuven
   * Project Expert-Devs
 
-
+Education
+------
+* PhD in Engineering Science, Mechanical Engineering, 2019. Supervisor: Prof. dr. ir. Lieve Helsen
+  * Dissertation: _"Optimal integration of thermal energy storage and conversion in fourth generation thermal networks"_  - ___[[Download](https://lirias.kuleuven.be/handle/123456789/638748)]___
+  * Supported by a VITO PhD Fellowship, ERDF, Flanders Innovation & Entrepreneurship and the Province of Limburg
+* MSc in Engineering Science, Energy for Smart Cities, KU Leuven & Royal Institute of Technology (KTH), Stockholm, Cum laude.
+  * Master thesis: _"Big data analytics towards a retrofitting plan for the city of Stockholm"_
+    * Vattenfall Energy Award: First prize
+    * EIT-KIC InnoEnergy Master in Energy for Smart Cities Thesis Award: Second prize
+* BSc in Engineering Science, major Mechanical and minor Electrical Engineering, KU Leuven, 2012, Magna cum laude.
 
 Skills
 ------
@@ -53,9 +53,9 @@ Skills
 
 Activities
 ------
-* 2017-2018: VITO PhD Committee member
 * 2015-Present: Volunteer at Thermotechnical Institute at KU Leuven
-* 2010-Present: Active member of University Symphony Orchestra of KU Leuven
+* 2017-2018: VITO PhD Committee member
+* 2010-2018: Active member of University Symphony Orchestra of KU Leuven
   * 2011-2013: Board member, PR
 
 Extra Courses
