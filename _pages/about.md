@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am an energy engineer, looking for and implementing solutions to drive the sustainable energy transition forward. My main interest is how to decarbonize heating and cooling in the built environment.
-Currently, I am an assistant professor at Delft University of Technology (TU Delft). 
+I am an energy engineer, looking for and implementing solutions to drive the sustainable energy transition forward. My main interest is how to decarbonize heating and cooling in the built environment, and how to track the origin of energy in a way that creates an impact on the energy transition.
+Currently, I am employed at the [Association of Issuing Bodies](http://www.aib-net.org) as EECS Quality Officer. 
 
 I hold a PhD in mechanical engineering from KU Leuven, supervised by prof. dr. ir. Lieve Helsen of the Thermal Systems Simulation Group. My [PhD research](https://lirias.kuleuven.be/handle/123456789/638748) _(link to PhD dissertation)_ focused on optimal integration of thermal energy storage in district heating and cooling systems. The research aim was to maximize utilization of renewable energy sources in the built environment and reduce the use of fossil fuels as much as possible. In order to get there, I model components in thermal networks and combine everything into an optimization problem, with an emphasis on system integration.
 
