@@ -12,7 +12,11 @@ redirect_from:
 
 Work experience
 ------
-* 2023 - present: Assistant Professor, Delft University of Technology (TU Delft)
+* 2024 - present: EECS Quality Officer, Association of Issuing Bodies ivzw (AIB)
+  * Guaranteeing the origin of energy in Europe
+  * Maintaining the quality of the European Energy Certificate System (EECS)
+ 
+* 2023 - 2024: Assistant Professor, Delft University of Technology (TU Delft)
   * Research regarding sustainable heat grids
   * Developing education on heating and cooling networks
 
