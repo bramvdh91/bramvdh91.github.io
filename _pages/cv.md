@@ -12,7 +12,11 @@ redirect_from:
 
 Work experience
 ------
-* 2024 - present: EECS Quality Officer, Association of Issuing Bodies ivzw (AIB)
+* 2025 - present: R&D Expert in Modelling and Control of Thermal Systems, EnergyVille-VITO
+  * Researching smart control of district energy systems, with a focus on thermal networks
+  * Executing external (Horizon Europe) and internal research projects
+
+* 2024 - 2025: EECS Quality Officer, Association of Issuing Bodies ivzw (AIB)
   * Guaranteeing the origin of energy in Europe
   * Maintaining the quality of the European Energy Certificate System (EECS)
  
