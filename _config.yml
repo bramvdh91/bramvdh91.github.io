@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Bram van der Heijde"
 title_separator          : "-"
 name                     : &name "Bram van der Heijde"
-description              : &description "PhD Student"
+description              : &description "R&D Expert Thermal Energy Systems"
 url                      : https://bramvdh91.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "bramvdh91/bramvdh91.github.io"
@@ -81,10 +81,10 @@ author:
   name             : "Bram van der Heijde"
   avatar           : "bram.jpg"
   bio              : "dr. ir. Energy engineer. I play the cello."
-  location         : #"Hasselt, Belgium"
-  employer         : "VREG"
+  location         : "Hasselt, Belgium"
+  employer         : "EnergyVille - VITO"
   googlescholar    : "https://scholar.google.be/citations?user=DoLXRvAAAAAJ&hl=nl"
-  email            : "bram.vanderheijde@vreg.be"
+  email            : "bram.vanderheijde@vito.be"
   uri              :
   bitbucket        :
   codepen          :
@@ -95,7 +95,7 @@ author:
   github           : "bramvdh91"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "@steely_dyane"
   lastfm           :
   linkedin         : "bramvdh91"
   orcid            : "https://orcid.org/0000-0002-1389-1362"
@@ -105,7 +105,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "bvdh91"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
