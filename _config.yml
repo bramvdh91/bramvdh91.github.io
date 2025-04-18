@@ -3,10 +3,12 @@
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
 # For technical reasons, this file is *NOT* reloaded automatically when you use
-# `jekyll serve`. If you change this file, please restart the server process.
+# `jekyll serve -l -H localhost`. If you change this file, please restart the 
+# server process.
 
-# Site Settings
+# Basic Site Settings
 locale                   : "en-US"
+site_theme               : "default"
 title                    : "Bram van der Heijde"
 title_separator          : "-"
 name                     : &name "Bram van der Heijde"
@@ -14,10 +16,83 @@ description              : &description "R&D Expert Thermal Energy Systems"
 url                      : https://bramvdh91.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "bramvdh91/bramvdh91.github.io"
+
+# Site Author - The following control what appear as part of the author content on the side bar.
+#               If a field is blank the icon and link will not appear, otherwise it will be shown.
+#               Additional customization can be done by editing /_includes/author-profile.html
+author:
+# Site Author
+author:
+  name             : "Bram van der Heijde"
+  avatar           : "bram.jpg"
+  pronouns         : "he/him"
+  bio              : "dr. ir. Energy engineer. I play the cello."
+  location         : "Hasselt, Belgium"
+  employer         : "EnergyVille - VITO"
+  googlescholar    : "https://scholar.google.be/citations?user=DoLXRvAAAAAJ&hl=nl"
+  email            : "bram.vanderheijde@vito.be"
+  uri              :
+
+  # Academic websites
+  arxiv            : # URL - Update with the correct link to your profile
+  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  impactstory      : # URL
+  orcid            : "https://orcid.org/0000-0002-1389-1362"
+  semantic         : # URL
+  pubmed           : # URL
+  researchgate     : "https://www.researchgate.net/profile/Bram_Van_Der_Heijde"
+  scopus           : "https://www.scopus.com/authid/detail.uri?authorId=56598100700"
+
+  # Repositories and software development
+  bitbucket        : # Username - Update with your username on the site
+  codepen          : # Username
+  dribbble         : # Username
+  github           : "bramvdh91"
+  kaggle           : # Username  
+  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
+
+  # Social media
+  bluesky          : # Replace this with you Bluesky username
+  facebook         : # Username
+  flickr           : # Username
+  foursquare       : # Username
+  goodreads        : # Username
+  google_plus      : # Username
+  keybase          : # Username
+  instagram        : "@steely_dyane"
+  lastfm           : # Username
+  linkedin         : "bramvdh91"
+  mastodon         : # URL
+  medium           : # URL
+  pinterest        : # Username
+  soundcloud       : # Username
+  steam            : # Username
+  telegram         : # URL
+  tumblr           : # Username
+  twitter          : # Username for X / Twitter
+  vine             : # Username
+  weibo            : # Username
+  wikipedia        : # Username
+  xing             : # Username
+  youtube          : # Username
+  zhihu            : # Username
+
+# Publication Category - The following the list of publication categories and their headings
+publication_category:
+  books:
+    title: 'Books'
+  manuscripts:
+    title: 'Journal Articles'    
+  conferences:
+    title: 'Conference Papers'
+
+# Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
+future                   : true
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
+talkmap_link             : false      #change to true to add link to talkmap on talks page
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
@@ -45,13 +120,16 @@ staticman:
       options:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
+  hide                   : false     # change to true to hide the RSS feed in the footer
   path                   : # blank (default) uses feed.xml
+
 
 # SEO Related
 google_site_verification :
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
+
 
 # Social Sharing
 twitter:
@@ -71,47 +149,9 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
+  provider               :  "false" # false (default), "google", "google-universal", "google-analytics-4", "custom"
   google:
     tracking_id          : UA-113886270-1
-
-
-# Site Author
-author:
-  name             : "Bram van der Heijde"
-  avatar           : "bram.jpg"
-  bio              : "dr. ir. Energy engineer. I play the cello."
-  location         : "Hasselt, Belgium"
-  employer         : "EnergyVille - VITO"
-  googlescholar    : "https://scholar.google.be/citations?user=DoLXRvAAAAAJ&hl=nl"
-  email            : "bram.vanderheijde@vito.be"
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
-  github           : "bramvdh91"
-  google_plus      :
-  keybase          :
-  instagram        : "@steely_dyane"
-  lastfm           :
-  linkedin         : "bramvdh91"
-  orcid            : "https://orcid.org/0000-0002-1389-1362"
-  pinterest        :
-  researchgate     : "https://www.researchgate.net/profile/Bram_Van_Der_Heijde"
-  soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
-  twitter          : 
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  wikipedia        :
-
 
 # Reading Files
 include:
@@ -123,24 +163,28 @@ exclude:
   - "*.sublime-workspace"
   - .asset-cache
   - .bundle
+  - .github
   - .jekyll-assets-cache
   - .sass-cache
-  - assets/js/plugins
   - assets/js/_main.js
+  - assets/js/plugins
   - assets/js/vendor
-  - Capfile
   - CHANGELOG
+  - Capfile
   - config
+  - Dockerfile
   - Gemfile
   - Gruntfile.js
   - gulpfile.js
   - LICENSE
+  - local
   - log
   - node_modules
-  - package.json
+  - package.json*
   - Rakefile
   - README
   - tmp
+  - vendor
 keep_files:
   - .git
   - .svn
@@ -168,7 +212,7 @@ kramdown:
   enable_coderay: false
 
 
-# Collections
+# These settings control the types of collections used by the template
 collections:
   teaching:
     output: true
@@ -184,7 +228,7 @@ collections:
     permalink: /:collection/:path/
 
 
-# Defaults
+# These settings control how pages and collections are included in the site
 defaults:
   # _posts
   - scope:
@@ -240,6 +284,7 @@ defaults:
       author_profile: true
       share: true
 
+
 # Sass/SCSS
 sass:
   sass_dir: _sass
@@ -254,18 +299,21 @@ timezone: Europe/Brussels # http://en.wikipedia.org/wiki/List_of_tz_database_tim
 
 
 # Plugins
-gems:
+plugins:
+  - jekyll-feed
+  - jekyll-gist
   - jekyll-paginate
   - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
   - jekyll-redirect-from
-# mimic GitHub Pages with --safe
+  - jemoji
+
+# Mimic GitHub Pages with --safe
 whitelist:
+  - jekyll-feed
+  - jekyll-gist
   - jekyll-paginate
   - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
+  - jekyll-redirect-from
   - jemoji
 
 
